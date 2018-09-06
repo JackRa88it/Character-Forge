@@ -1,0 +1,24 @@
+{
+  "name": "character-forge",
+  "version": "1.0.0",
+  "description": "(Personal project) A workshop for creating fictional characters, worlds, and stories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackRa88it/Character-Forge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackRa88it/Character-Forge/issues"
+  },
+  "homepage": "https://github.com/JackRa88it/Character-Forge#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mysql": "^2.16.0"
+  }
+}
